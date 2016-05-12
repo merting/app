@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.8.251/app/sgws-mobile.ipa</string>
+					<string>http://192.168.8.251/app/yhbz.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jyx.sgws</string>
+				<string>com.jyx.yhbz</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>提示!</string>
 				<key>title</key>
-				<string>艾米亚战记</string>
+				<string>银河霸主</string>
 			</dict>
 		</dict>
 	</array>
